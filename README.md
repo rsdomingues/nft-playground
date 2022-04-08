@@ -1,4 +1,9 @@
-# Create An ENTIRE NFT Collection (10,000+) & MINT
+# Create An ENTIRE NFT Collection & MINT
+This is my studie for NFT, and can be used a step by step processo to the creation of the art, contract and minting of an NFT. 
+
+To simplify the connection with the Etherium blockchain, I'm using NFT port.
+
+If you want to use the same tutoral you need to create an Wallet, and use the wallet and an account at [NFTPort](https://nftport.xyz). For the wallet I've used the [MetaMask](https://metamask.io/), you can use any wallet provider.
 
 ## Table of Contents
 
@@ -11,26 +16,15 @@
 Original Video: 
 
 👴 [How To Create An ENTIRE NFT Collection (10,000+) & MINT In Under 1 Hour Without Coding Knowledge](https://youtu.be/AaCgydeMu64)
-
-(WATCH THIS ONE!) Updated video for v2.0.0 release: 
-
 🌟 [How To Create An ENTIRE NFT Collection (10,000+) & MINT with ZERO Coding Knowledge v2.0](https://youtu.be/quGdJweadFM)
 
 How to automate listing for sale on OpenSea: 
 
 💰 [How To List & Reveal An ENTIRE NFT Collection (10,000+) Without Coding Knowledge on OpenSea](https://youtu.be/Iy1n_LxUwZs)
 
-Original video code: [v0.1.0-alpha](https://github.com/codeSTACKr/video-source-code-create-nft-collection/releases/tag/v0.1.0-alpha)
-
-Base code is from [hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine)
-
+Base Engine Code: [v0.1.0-alpha](https://github.com/codeSTACKr/video-source-code-create-nft-collection/releases/tag/v0.1.0-alpha)
+Base Art Generation Code is from [hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine)
 Minting uses [NFTPort](https://nftport.xyz)
-
-Join the Discord server for more help from the community: [codeSTACKr Discord](https://discord.gg/A9CnsVzzkZ)
-
-The macro script from the "listing for sale" video: [macro1.mmmacro](macro1.mmmacro)
-
-UPDATE: Added rarity calculator. See this [video](https://youtu.be/Uz1y4j9gvP8) for the walkthrough.
 
 ## COMMANDS
 

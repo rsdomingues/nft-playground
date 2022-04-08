@@ -5,11 +5,21 @@ To simplify the connection with the Etherium blockchain, I'm using NFT port.
 
 If you want to use the same tutoral you need to create an Wallet, and use the wallet and an account at [NFTPort](https://nftport.xyz). For the wallet I've used the [MetaMask](https://metamask.io/), you can use any wallet provider.
 
-## Table of Contents
+**To use this code:**
 
-- [RESOURCES](#resources)
-- [COMMANDS](#commands)
-- [UPDATES & FIXES](#updates--fixes)
+- Clone this repo or download the latest release zip file.
+- Unzip, if needed, and open the folder in VS Code.
+- Edit the file "0-Env Setup/run.sh", to add your NFT Port API Key and Wallet Addresses
+- Edit the file "nft-engine/src/config.js", to configure
+  - Number of NFT that will be generated
+  - Collection Name
+  - Generic descriptions
+- From the terminal run all the "run.sh" files in the following order: 
+  - 0-Env Setup
+  - 1-Art Generation
+  - 2-Upload to IPFS
+  - 3-Contract Creation
+  - 4-Mint
 
 ## RESOURCES
 
@@ -175,13 +185,3 @@ To fix these issues, I've updated the code to include a timeout that will allow 
 
 If you've reached your quota limit, contact NFTPort to upgrade your plan to get more. 
 
-**To use this code:**
-
-- Clone this repo or download the latest release zip file.
-- Unzip, if needed, and open the folder in VS Code.
-- From the terminal type: 
-  - `npm install`
-- Copy your image layers into the `layers` folder.
-- Use the `src/config.js` file to set up your layers and NFT information.
-
-## Reference the [video](https://youtu.be/quGdJweadFM) for more details.
